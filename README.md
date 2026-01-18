@@ -14,7 +14,7 @@ Una herramienta de CLI (Interfaz de Línea de Comandos) desarrollada en **Python
 ## 🔧 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/SAMUELMARTINEZ8/Password-Strength-Tool.git](https://github.com/SAMUELMARTINEZ8/Password-Strength-Tool.git)
+   git clone https://github.com/SAMUELMARTINEZ8/Password-Strength-Tool.git
 2. Navega a la carpeta:
    ```bash
    cd Password-Strength-Tool
@@ -27,5 +27,6 @@ Una herramienta de CLI (Interfaz de Línea de Comandos) desarrollada en **Python
 
 ---
 *Desarrollado por Samuel Martinez 🐵* 
+
 
 
