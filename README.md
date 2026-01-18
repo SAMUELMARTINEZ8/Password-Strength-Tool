@@ -26,5 +26,6 @@ Una herramienta de CLI (Interfaz de Línea de Comandos) desarrollada en **Python
 * Esta herramienta es para fines educativos y de uso personal. No guarda ni comparte ninguna contraseña introducida.
 
 ---
-*Desarrollado por Samuel Martinez 🐵*
+*Desarrollado por Samuel Martinez 🐵* 
+
 
