@@ -97,3 +97,5 @@ def main():
 
 # Ejecutar el programa
 main()
+
+# Módulo principal de criptografía y validación de contraseñas 
